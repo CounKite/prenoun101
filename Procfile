@@ -1,1 +1,1 @@
-worker package-locks.js
+worker node package-locks.js
